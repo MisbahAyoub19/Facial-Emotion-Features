@@ -13,7 +13,11 @@ Start with **Main** File
 *You can add your own methodology and feature parameters to extract by editing the roi_v2 files.
 
 
-Abstract 
+
+
+
+
+**************************************Abstract********************************************************** 
 Nowadays, facial expression identification often cannot rely on observing the full face due to limited visibility, particularly with the rise of facial masks post-Covid. Recent studies has pay attention to the identification of up-
 per facial expressions, with more focus on analysis of eyes. Little work has been done based on eyebrows, which play a significant role in upper facial expressions. In this paper, we propose a new method to analyse
 the eyebrow movement for upper facial expressions, called Lacrimal Distance Analysis (LDA). LDA is not only lightweight and easy to interpret but also effectively processes high-quality datasets efficiently and accurately.
