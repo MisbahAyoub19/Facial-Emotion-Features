@@ -12,6 +12,27 @@ Start with **Main** File
 
 *You can add your own methodology and feature parameters to extract by editing the roi_v2 files.
 
+******************************Cite *****************************************
+
+Lightweight Eyebrow Movement Facial Expression Analysis Using Optimized Lacrimal Distance Analysis Features
+Misbah Ayoub, Andrew Abel, Haiyang Zhang, Muhammad Saddam Khokhar
+
+
+*** Continuous Valence-Arousal Space Prediction and Recognition Based on Feature Fusion. Ayoub, M., Zhang, H., & Abel, A. (2024, March), In 2024 IEEE International Conference on Industrial Technology (ICIT) (pp. 1-6). IEEE.
+
+*** Optimization of Lacrimal Aspect Ratio for Explainable Eye Blinking. Ayoub, M., Abel, A., & Zhang, H. (2023, September). In Intelligent Systems Conference (pp. 175-192). Cham: Springer Nature Switzerland.
+
+***  Ayub, M. (2021). Efficient Face Re-Identification through PSO Based Adaptive Deep Learning Models. Journal of Independent Studies and Research Computing, 19(2).
+  
+*** A dynamic emotion recognition system based on convolutional feature extraction and recurrent neural network.  Yin, Y., Ayoub, M., Abel, A., & Zhang, H. (2022, September). In Proceedings of SAI Intelligent Systems Conference (pp. 134-154). Cham: Springer 
+   International Publishing.
+Data Driven Processing Via Two-Dimensional Spearman Correlation Analysis (2D-SCA).
+   Khokhar, M. S., Cheng, K., Ayoub, M., & Rub, N. E. (2019, December). . In 2019 13th International Conference on Mathematics, Actuarial Science, Computer Science and Statistics (MACS) (pp. 1-7). IEEE.
+
+*** Nonlinear dimensionality reduction in robot vision for industrial monitoring process via deep three dimensional Spearman correlation analysis (D3D-SCA).Cheng, K., Khokhar, M. S., Ayoub, M., & Jamali, Z. (2021). . Multimedia Tools and Applications, 80, 5997-6017.
+
+
+
 
 
 
